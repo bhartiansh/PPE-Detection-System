@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+ppe_env/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Large files (optional)
+*.pt
